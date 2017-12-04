@@ -1,2 +1,0 @@
-# challenges
-javascript challenges
